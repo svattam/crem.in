@@ -4,14 +4,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Jonathan Cremin</title>
- <link href="http://crem.in/atom.xml" rel="self"/>
- <link href="http://crem.in/"/>
+ <title>Swaroop Vattam</title>
+ <link href="https://svattam.github.io/atom.xml" rel="self"/>
+ <link href="https://svattam.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://crem.in/</id>
+ <id>https://svattam.github.io/</id>
  <author>
-   <name>Jonathan Cremin</name>
-   <email>jonathan@crem.in</email>
+   <name>Swaroop Vattam</name>
+   <email>svattam@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
