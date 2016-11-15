@@ -2,7 +2,7 @@
 layout: post
 title: "New understanding of lichens"
 ---
-![lichens](https://cdn.theatlantic.com/assets/media/img/mt/2016/07/8332405501_a8455b9aca_o/lead_960.png?1468853789)
+![lichens](https://cdn.theatlantic.com/assets/media/img/mt/2016/07/8332405501_a8455b9aca_o/lead_960.png?1468853789){ width:200px;}
 <blockquote>There’s been over 140 years of microscopy. The idea that there’s something so fundamental that people have been missing is stunning - Toby Spribille</blockquote>blockquote>
 A guy from Montana trailer park overturned 150 years of biology. Biology textbooks tell us that lichens are symbiotic alliances between two species - an alga and a fungus. But [Toby Spribille](http://tobyspribille.weebly.com/), raised in a Montana trailer park and home-schooled by what he now describes as a “fundamentalist cult” overthrew that idea. He fell in love with science, but had no way of feeding that love with higher education because he didn't have formal education and transcripts. But one German university overlooked that fact and offered him a chance to pursue college and postgraduate education, where he studied lichens. 
 
